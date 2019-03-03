@@ -1,4 +1,0 @@
-This is the first line
-This is second line
-Enyered from GUI
-Entered from feat1 branch
